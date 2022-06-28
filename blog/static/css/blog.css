@@ -1,15 +1,21 @@
-/* h1 a, h2 a {
+/* 
+h1 a, h2 a {
     color: #C25100;
 } */
 
-body {
-    padding-left: 15px;
-}
 
-h1 a, h2 a {
+/* body :not(.container1){
+    padding-left: 15px;
+} */
+
+/* body {
+    padding-left: 15px;
+}   */
+
+/* h1 a, h2 a {
     color: #C25100;
     font-family: 'Lobster';
-}
+} */
 
 .page-header {
     background-color: #C25100;
